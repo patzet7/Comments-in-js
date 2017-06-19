@@ -1,0 +1,20 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Open+Sans&subset=latin,latin-ext);
+body {
+    overflow: hidden;
+    margin: 0;
+}
+#particles-js {
+    font-family: 'Open Sans';
+    height: 100vh;
+    position: relative;
+    background: #34495e;
+}
+h1 {
+    padding: 30px;
+    color: white;
+    background: rgba(0,0,0, 0.4);
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    font-size: 28px;
+}
